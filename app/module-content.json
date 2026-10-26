@@ -1,0 +1,332 @@
+{
+ "1": {
+  "fact": "Every procedure you observe, assist or perform is evidence of your training. A complete, signed logbook is what turns three months of work into a recognised record.",
+  "learn": [
+   "Understand the aims and structure of the 3-month clinical training",
+   "Know how to complete the Procedure List and Patient Registry",
+   "Record observed, assisted and performed procedures correctly",
+   "Prepare case discussions and get supervisor signatures"
+  ],
+  "topics": [
+   "Objectives of clinical training :: The skills and competencies you are expected to gain exposure to across the Medical ICU, Surgical ICU, CCU and Anaesthesia and OT complex.",
+   "The Procedure List (Month 1, 2, 3) :: How to tally patients seen and procedures for each month of the fellowship.",
+   "The Patient Registry :: Recording serial number, date, UHID, age/sex, diagnosis, procedure done (Observed / Assisted / Performed) and the supervisor's signature.",
+   "Writing a case discussion :: Presenting complaint, history, examination, investigations, diagnosis and management in a consistent structure.",
+   "Patient confidentiality and consent :: Record cases with a UHID, never with names or other identifying details.",
+   "Certificate of training and sign-off :: What the Head of Department certifies, and what you need ready before submitting your logbook."
+  ],
+  "outputs": [
+   "A correctly started Procedure List",
+   "Your first Patient Registry entries",
+   "One completed case discussion"
+  ]
+ },
+ "2": {
+  "fact": "Central lines are among the most common ICU procedures, and most of their complications are preventable with ultrasound guidance and strict asepsis.",
+  "learn": [
+   "Choose between subclavian, jugular and femoral approaches",
+   "Use ultrasound guidance for central venous access",
+   "Recognise and manage procedure complications",
+   "Care for the insertion site and sample safely from a central line"
+  ],
+  "topics": [
+   "Indications and site selection :: Matching the approach (subclavian, internal jugular, femoral) to the patient and the clinical situation.",
+   "Ultrasound-guided insertion :: Vessel identification, needle visualisation and confirming guidewire position.",
+   "Aseptic technique and dressing :: Maximal barrier precautions and keeping the insertion site clean and dry.",
+   "Complications and their management :: Recognising pneumothorax, arterial puncture, bleeding, arrhythmia and infection early.",
+   "Sampling from a central line :: Drawing blood samples without contaminating the line or the sample."
+  ],
+  "outputs": [
+   "Logged CVC insertions (observed, assisted, performed)",
+   "A site-care checklist",
+   "Supervisor sign-off for each logged procedure"
+  ]
+ },
+ "3": {
+  "fact": "A reliable arterial line gives beat-to-beat blood pressure and fast access to blood gases, but only if the transducer is levelled and calibrated.",
+  "learn": [
+   "Perform radial or femoral arterial access safely",
+   "Set up, level and zero the transducer",
+   "Take arterial blood gas samples correctly",
+   "Interpret acid-base and electrolyte abnormalities"
+  ],
+  "topics": [
+   "Radial and femoral artery access :: Site choice, collateral flow checks and insertion technique.",
+   "Arterial blood pressure monitoring :: Reading the waveform and recognising damping and over-damping.",
+   "Calibrating the transducer :: Levelling to the phlebostatic axis and zeroing.",
+   "Arterial blood gas sampling :: Sampling technique, handling and avoiding common errors.",
+   "Acid-base and electrolyte interpretation :: A stepwise approach to metabolic and respiratory disturbances and the common electrolyte problems in ICU."
+  ],
+  "outputs": [
+   "Logged arterial line insertions",
+   "Three interpreted ABG worked examples",
+   "Supervisor sign-off for each logged procedure"
+  ]
+ },
+ "4": {
+  "fact": "Airway management is time-critical. Preparation, a plan B and confirming tube placement are what separate a controlled intubation from an emergency.",
+  "learn": [
+   "Assess the airway and plan the intubation",
+   "Deliver oxygen with the right device and perform bag-mask ventilation",
+   "Insert an endotracheal tube or supraglottic airway and verify placement",
+   "Manage sedation, paralysis and ETT care"
+  ],
+  "topics": [
+   "Airway assessment :: Identifying predictors of a difficult airway before you start.",
+   "Basic airway manoeuvres and bag-mask ventilation :: Head tilt, chin lift, AMBU bag technique.",
+   "Oxygen delivery devices :: Nasal cannula, face mask, venturi mask and non-rebreather mask, and when to use each.",
+   "Tube and SGA selection and insertion :: Choosing the correct size and inserting it safely.",
+   "Verifying tube placement :: Auscultation and capnography.",
+   "Sedation and paralysis management :: Drug choice and monitoring during and after intubation.",
+   "ETT care :: Suctioning, securing, and changing an endotracheal tube."
+  ],
+  "outputs": [
+   "Logged intubations and SGA insertions",
+   "An airway assessment checklist",
+   "Supervisor sign-off for each logged procedure"
+  ]
+ },
+ "5": {
+  "fact": "Mechanical ventilation can save a life and cause injury. Good settings, quick alarm response and an early weaning plan make the difference.",
+  "learn": [
+   "Describe the common modes of ventilation",
+   "Adjust tidal volume, respiratory rate and PEEP appropriately",
+   "Respond to ventilator alarms systematically",
+   "Follow a weaning protocol"
+  ],
+  "topics": [
+   "Modes of ventilation :: Volume control and pressure control, and how they differ at the bedside.",
+   "Adjusting ventilator settings :: Tidal volume, respiratory rate, PEEP and what each change does.",
+   "Managing ventilator alarms :: Working through high-pressure and low-volume alarms safely.",
+   "Weaning protocols :: Readiness checks, spontaneous breathing trials and extubation decisions."
+  ],
+  "outputs": [
+   "Logged ventilated patients per month",
+   "A ventilator alarm troubleshooting card",
+   "One weaning case discussion"
+  ]
+ },
+ "6": {
+  "fact": "A chest drain is only as good as its system. Knowing how the drainage works is as important as knowing how to insert it.",
+  "learn": [
+   "Recognise indications such as pneumothorax and pleural effusion",
+   "Select the correct site for insertion",
+   "Manage a chest drainage system",
+   "Recognise and manage complications"
+  ],
+  "topics": [
+   "Indications for a chest tube :: Pneumothorax, pleural effusion and other situations requiring drainage.",
+   "Site selection and insertion :: Landmarks and ultrasound support for choosing a safe site.",
+   "Chest drainage system management :: Water seal, suction, swinging and bubbling, and when to clamp or not.",
+   "Complications :: Bleeding, malposition, re-expansion problems and infection."
+  ],
+  "outputs": [
+   "Logged chest tube insertions and managed drains",
+   "A drain-monitoring checklist",
+   "Supervisor sign-off for each logged procedure"
+  ]
+ },
+ "7": {
+  "fact": "In cardiac arrest, high-quality compressions and early defibrillation of shockable rhythms give the patient the best chance.",
+  "learn": [
+   "Apply BLS principles and ACLS algorithms",
+   "Differentiate shockable from non-shockable rhythms",
+   "Use a defibrillator safely",
+   "Deliver post-resuscitation care"
+  ],
+  "topics": [
+   "Basic life support principles :: Recognition, compressions, airway and early activation of the team.",
+   "ACLS algorithms :: Working through the cardiac arrest algorithm step by step.",
+   "ECG interpretation :: Reading rhythms quickly at the bedside.",
+   "Shockable vs non-shockable rhythms :: Deciding when defibrillation is indicated.",
+   "Defibrillation :: Safe use of the defibrillator and pad placement.",
+   "Post-resuscitation care :: Stabilising the patient after return of spontaneous circulation."
+  ],
+  "outputs": [
+   "Logged resuscitation events (observed, assisted, led)",
+   "Five annotated rhythm strips",
+   "Supervisor sign-off for each logged event"
+  ]
+ },
+ "8": {
+  "fact": "Feeding and medication through a nasogastric tube are only safe when placement has been verified every time.",
+  "learn": [
+   "Select the correct tube size and insertion site",
+   "Verify tube placement before use",
+   "Give feeds and medication safely via the tube",
+   "Recognise and manage complications"
+  ],
+  "topics": [
+   "Size and site selection :: Nasogastric versus orogastric and choosing the correct tube.",
+   "Insertion and placement verification :: Confirming position before anything goes down the tube.",
+   "Feeding and medication administration :: Safe techniques, flushing and medication compatibility.",
+   "Complications :: Misplacement, aspiration, blockage and mucosal injury."
+  ],
+  "outputs": [
+   "Logged NG / OG tube insertions",
+   "A placement-verification checklist",
+   "Supervisor sign-off for each logged procedure"
+  ]
+ },
+ "9": {
+  "fact": "Catheter-associated urinary infections are largely preventable: insert only when indicated, use sterile technique, and remove early.",
+  "learn": [
+   "Identify valid indications for catheterisation",
+   "Insert a urinary catheter using sterile technique",
+   "Maintain the catheter and drainage system",
+   "Monitor urine output meaningfully"
+  ],
+  "topics": [
+   "Indications :: Urinary retention and the need for accurate urine output monitoring.",
+   "Sterile technique :: Preparation, insertion and securing.",
+   "Catheter care and maintenance :: Daily care, drainage bag handling and timely removal."
+  ],
+  "outputs": [
+   "Logged catheterisations",
+   "A catheter-care checklist",
+   "Supervisor sign-off for each logged procedure"
+  ]
+ },
+ "10": {
+  "fact": "Bedside ultrasound answers focused clinical questions in minutes: is the heart squeezing, are the lungs wet, is the patient dry?",
+  "learn": [
+   "Acquire basic cardiac, lung, airway and gastric views",
+   "Assess volume status at the bedside",
+   "Perform a rapid assessment in trauma",
+   "Recognise the limits of focused ultrasound"
+  ],
+  "topics": [
+   "Basic cardiac ultrasound :: Core views and what a quick look can and cannot tell you.",
+   "Lung ultrasound :: Recognising normal and abnormal patterns.",
+   "Airway and gastric ultrasound :: Supporting airway decisions and assessing the stomach.",
+   "Assessment of volume status :: Using bedside findings to guide fluid decisions.",
+   "Rapid assessment of trauma patients :: A focused approach for the unstable trauma patient."
+  ],
+  "outputs": [
+   "Logged POCUS scans",
+   "A set of saved example images",
+   "Supervisor sign-off for each logged scan"
+  ]
+ },
+ "11": {
+  "fact": "Tracheostomy patients depend on routine care. A blocked or displaced tube is an emergency that you should be ready for.",
+  "learn": [
+   "Perform routine tracheostomy tube changes",
+   "Suction safely using correct technique",
+   "Provide stoma care",
+   "Recognise tube blockage and displacement"
+  ],
+  "topics": [
+   "Tracheostomy tube changes :: Preparation, technique and what to have at the bedside.",
+   "Suctioning techniques :: Safe suctioning that protects the airway.",
+   "Stoma care :: Keeping the site clean and recognising early problems."
+  ],
+  "outputs": [
+   "Logged tracheostomy care episodes",
+   "An emergency tracheostomy checklist",
+   "Supervisor sign-off for each logged procedure"
+  ]
+ },
+ "12": {
+  "fact": "A smooth bronchoscopy starts well before the scope goes in: the right equipment, a prepared patient and a trained assistant.",
+  "learn": [
+   "Prepare the equipment and the patient",
+   "Assist during the procedure",
+   "Provide post-procedure care",
+   "Recognise complications early"
+  ],
+  "topics": [
+   "Preparation of equipment and patient :: Checking the scope, suction and monitoring, and preparing the patient.",
+   "Assisting during the procedure :: Your role at the bedside, including specimen handling.",
+   "Post-procedure care :: Monitoring for bleeding, desaturation and other complications."
+  ],
+  "outputs": [
+   "Logged bronchoscopies assisted",
+   "An equipment checklist",
+   "Supervisor sign-off for each logged procedure"
+  ]
+ },
+ "13": {
+  "fact": "Routine airway care in ventilated patients is a daily responsibility, and it is central to preventing ventilator-associated complications.",
+  "learn": [
+   "Suction endotracheal tubes safely",
+   "Deliver nebulisation therapy to ventilated patients",
+   "Perform tracheostomy tube changes in ventilated patients",
+   "Apply infection-prevention practices"
+  ],
+  "topics": [
+   "Suctioning of endotracheal tubes :: Indications, technique and avoiding harm.",
+   "Nebulisation therapy :: Delivering inhaled medication to ventilated patients.",
+   "Tracheostomy tube changes :: Changing tubes in patients on ventilator support."
+  ],
+  "outputs": [
+   "Logged ventilator-associated procedures",
+   "A daily airway-care checklist",
+   "Supervisor sign-off for each logged procedure"
+  ]
+ },
+ "14": {
+  "fact": "Bedside procedures and a thorough neurological assessment give information that scans and labs cannot.",
+  "learn": [
+   "Perform or assist with lumbar puncture and paracentesis",
+   "Carry out neurological assessment and monitoring",
+   "Obtain and handle samples correctly",
+   "Recognise complications"
+  ],
+  "topics": [
+   "Lumbar puncture :: Indications, contraindications, technique and sample handling.",
+   "Paracentesis :: Diagnostic and therapeutic drainage of ascites.",
+   "Neurologic assessment and monitoring :: Structured assessment and trend monitoring at the bedside."
+  ],
+  "outputs": [
+   "Logged bedside procedures",
+   "A neurological assessment template",
+   "Supervisor sign-off for each logged procedure"
+  ]
+ },
+ "15": {
+  "fact": "Cardiac devices occasionally fail. Knowing how to check them and who to call is part of safe critical care.",
+  "learn": [
+   "Assess pacemaker and defibrillator function",
+   "Troubleshoot device-related issues",
+   "Manage emergencies from device malfunction",
+   "Know when to escalate"
+  ],
+  "topics": [
+   "Assessment of device function :: Using the ECG and device checks to confirm the device is working.",
+   "Troubleshooting device-related issues :: Common problems and first-line actions.",
+   "Emergency management of device malfunction :: Immediate steps and escalation."
+  ],
+  "outputs": [
+   "Logged device assessments",
+   "An escalation contact sheet",
+   "Supervisor sign-off for each logged case"
+  ]
+ },
+ "16": {
+  "fact": "Much of ICU practice is the routine, high-stakes detail: drug doses, infusions, insulin, blood products and scores. Getting these right is a daily skill.",
+  "learn": [
+   "Calculate commonly used ICU drug doses, boluses and infusions",
+   "Manage glycaemic control, adrenal insufficiency and coagulopathy",
+   "Use ICU scoring systems and manage shock",
+   "Apply universal precautions and wound care"
+  ],
+  "topics": [
+   "Dosage calculation of commonly used ICU medications :: Working out doses safely and double-checking them.",
+   "Haemodynamic support drugs :: Preparation and dosing of boluses and infusions.",
+   "Insulin administration and glycaemic control :: Safe protocols in critically ill patients.",
+   "Management of adrenal insufficiency :: Recognition and treatment.",
+   "Blood transfusion and blood products :: Indications, checks and monitoring.",
+   "Management of coagulopathy :: Interpreting results and choosing treatment.",
+   "Pressure ulcers and wound care :: Prevention and management.",
+   "ICU scoring systems (SOFA, APACHE) :: Using scores to describe severity and track change.",
+   "Universal precautions :: Protecting patients and staff.",
+   "Management of shock :: Hypovolaemic, anaphylactic and other types of shock."
+  ],
+  "outputs": [
+   "Worked dose-calculation examples",
+   "A scored case (SOFA / APACHE)",
+   "One shock management case discussion"
+  ]
+ }
+}
